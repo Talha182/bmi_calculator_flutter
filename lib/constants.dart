@@ -1,0 +1,38 @@
+import 'package:flutter/material.dart';
+
+
+const kTextStyle = TextStyle(
+    fontSize: 18.0,
+    color: Color(0xFF8D8E98)
+);
+
+const kNumberTextStyle = TextStyle(
+    fontSize: 50.0,
+    fontWeight: FontWeight.w900
+);
+
+const kButtomContianerHeight = 80.0;
+const kActiveCardColour = Color.fromRGBO(29, 31, 59, 1);
+const kInactiveCardColour = Color.fromRGBO(17, 19, 40, 1);
+
+
+const kTitleTextStyle = TextStyle(
+  fontSize: 50.0,
+  fontWeight: FontWeight.bold
+);
+
+const kResultsTextStyle = TextStyle(
+  color: Color(0xFF24D876),
+  fontSize: 22.0,
+  fontWeight: FontWeight.bold
+);
+
+const kBmiTextStyle = TextStyle(
+  fontSize: 100.0,
+  fontWeight: FontWeight.bold
+);
+
+const kBodyTextStyle = TextStyle(
+  fontSize: 20.0
+
+);
